@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @winnie54
-- 👀 I’m interested in ...frontend Engineering 
+- 👀 I’m interested in ...backend Engineering and possibly cloud
 - 🌱 I’m currently learning on ...Alx africa
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...@winnie_eluu on twiter
